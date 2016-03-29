@@ -4,7 +4,7 @@
 #
 Name     : rubygem-delorean
 Version  : 2.1.0
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/delorean-2.1.0.gem
 Source0  : https://rubygems.org/downloads/delorean-2.1.0.gem
 Summary  : No detailed summary available
@@ -47,31 +47,9 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/delorean-2.1.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Date/cdesc-Date.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Date/today-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Date/today_without_delorean-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/DateTime/cdesc-DateTime.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/DateTime/now-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/DateTime/now_without_delorean-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/back_to_1985-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/back_to_the_present-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/cdesc-FluxCapacitor.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/jump-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/mock_current_time-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/now-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/reset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/restore_previous_time-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/time_travel_offsets-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/FluxCapacitor/time_travel_to-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Delorean/cdesc-Delorean.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Time/cdesc-Time.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Time/now-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/Time/now_without_delorean-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/delorean-2.1.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/delorean-2.1.0/MIT-LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/delorean-2.1.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/delorean-2.1.0/lib/delorean.rb
-/usr/lib64/ruby/gems/2.2.0/gems/delorean-2.1.0/lib/flux_capacitor.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/delorean-2.1.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/delorean-2.1.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/delorean-2.1.0/MIT-LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/delorean-2.1.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/delorean-2.1.0/lib/delorean.rb
+/usr/lib64/ruby/gems/2.3.0/gems/delorean-2.1.0/lib/flux_capacitor.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/delorean-2.1.0.gemspec
